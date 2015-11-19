@@ -24,5 +24,9 @@ Eg. java –jar umlparser.jar testcase1 TestCaseResult1.png (as shown in the ima
 
 ![How to run umlparser](https://github.com/krutipandya/UML-Java_Parser/blob/master/umlparser/howtorun.png "How to run umlparser")
 
+Output Image File : 
 
+
+
+![Output Image](https://github.com/krutipandya/UML-Java_Parser/blob/master/umlparser/img1.png "output image file for testcase1")
 
